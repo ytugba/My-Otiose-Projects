@@ -1,0 +1,38 @@
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.exe
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.deps.json
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.runtimeconfig.json
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.runtimeconfig.dev.json
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.dll
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.pdb
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.csprojAssemblyReference.cache
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition_MarkupCompile.cache
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition_MarkupCompile.lref
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.g.resources
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.csproj.CoreCompileInputs.cache
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.AssemblyInfoInputs.cache
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.AssemblyInfo.cs
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.dll
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.pdb
+C:\Users\cetin\source\repos\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.genruntimeconfig.cache
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.exe
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.deps.json
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.runtimeconfig.json
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.runtimeconfig.dev.json
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.dll
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\bin\Debug\netcoreapp3.1\Retouch Detector Win Edition.pdb
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.csprojAssemblyReference.cache
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition_MarkupCompile.cache
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition_MarkupCompile.lref
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.g.resources
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.csproj.CoreCompileInputs.cache
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.AssemblyInfoInputs.cache
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.AssemblyInfo.cs
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.dll
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.pdb
+C:\Users\cetin\Desktop\Retouch Detector Win Edition\Retouch Detector Win Edition\obj\Debug\netcoreapp3.1\Retouch Detector Win Edition.genruntimeconfig.cache

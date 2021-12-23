@@ -1,0 +1,23 @@
+R 10 10 10 20
+r 15 15 25 35
+p -D
+p -R 1
+p -I
+p -N
+p -b
+s -5 40 30
+p -D
+p -R 2
+p -N
+p -I
+p -r 3
+p -R 70
+p -B
+R 0 20 12 28
+p -d
+p -N
+p -i
+p -r 4
+p -b
+q
+

@@ -1,0 +1,29 @@
+__________
+[1] 10 10 20 30 
+[2] 15 15 40 50 
+__________
+Area of Rectangle [1] = 200
+Intersection Area= 75
+Net Rectangle Area= 1000
+BBC = [10 10 40 50]
+__________
+[1] 10 10 20 30 
+[2] 15 15 40 50 
+[3] -5 40 25 70 
+__________
+Area of Rectangle [2] = 875
+Net Rectangle Area= 1800
+Intersection Area= 175
+Area of Rectangle [3] = 900
+invalid rectangle index!
+BBC = [-5 10 40 70]
+__________
+[1] 10 10 20 30 
+[2] 15 15 40 50 
+[3] -5 40 25 70 
+[4] 0 20 12 48 
+__________
+Net Rectangle Area= 2020
+Intersection Area= 291
+Area of Rectangle [4] = 336
+BBC = [-5 10 40 70]

@@ -1,0 +1,25 @@
+#create and use database
+create database lab;
+use lab;
+
+#create table
+create table TV(
+			rank int primary key not null,
+            name char(30) not null,
+            type char(30) not null,
+            channel char(30) not null,
+            rating double not null            
+            );
+
+#display table
+select * from TV;
+
+#insert values
+insert into TV values (1, "COLD CASE", "Serial", "CNBC-E", 8.9);
+insert into TV values (2, "SEKSENLER", "Serial", "TRT 1", 7.5);
+insert into TV values (3, "STADYUM", "Sports", "TRT 1", 6.6);
+insert into TV values (4, "ATV ANA HABER", "Newscast", "ATV", 6.5);
+insert into TV values (5, "KANAL D ANA HABER", "Newscast", "KANAL D", 5.2);
+
+#display table
+select * from TV;
